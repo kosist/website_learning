@@ -1,0 +1,25 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-indent: 50px;
+    width: 200px;
+   
+    font-size: 24px;
+}
+
+li {
+    display: block;
+    color: blue;
+    argin: 0px;
+    text-decoration: none;
+}
+
+li:hover {
+    cursor: pointer;
+    background-color: #f2f2f2;
+}
+
+
+
